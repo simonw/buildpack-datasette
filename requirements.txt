@@ -1,1 +1,1 @@
-datasette
+datasette==0.50a1
