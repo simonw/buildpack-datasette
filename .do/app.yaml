@@ -1,9 +1,0 @@
-name: digital-ocean-datasette
-region: nyc
-services:
-- github:
-    branch: main
-    deploy_on_push: true
-    repo: simonw/digital-ocean-datasette
-  http_port: 8080
-  dockerfile_path: Dockerfile
