@@ -1,10 +1,10 @@
-# buildpack-datasette-demo
+# buildpack-datasette
 
-Example repo for deploying Datasette using a buildpack.
+Repository template for creating a new Datasette buildpack instance 
 
 More details: https://docs.datasette.io/en/latest/deploying.html#deploying-using-buildpacks
 
-This demo repository has been succesfully deployed to the following providers:
+This repository has been succesfully deployed to the following providers:
 
 - [Heroku](https://www.heroku.com/)
 - [DigitalOcean App Platform](https://www.digitalocean.com/docs/app-platform/)
